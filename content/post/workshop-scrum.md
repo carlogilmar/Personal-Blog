@@ -3,7 +3,7 @@ categories = ["Agile"]
 date = "2017-05-13T00:47:38-05:00"
 description = ""
 tags = ["scrum"]
-thumbnail = ""
+thumbnail = "/blog/workshop/scrum.png"
 title = "Workshop de Scrum en Upiicsa"
 
 +++
