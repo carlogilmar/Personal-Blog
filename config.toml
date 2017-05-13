@@ -1,3 +1,31 @@
-baseURL = "http://example.org/"
+baseurl = "https://carlogilmar.github.io/"
+title = "Blog de Carlo Gilmar"
 languageCode = "en-us"
-title = "My New Hugo Site"
+paginate = "10" # Number of posts per page
+theme = "Mainroad"
+disqusShortname = "carlogilmar-github-io"
+googleAnalytics="UA-90617617-1"
+
+
+[Author]
+    name = "@carlogilmar"
+    bio = "Desarrollador de software. Aspirante a ingeniero en informática y sociólogo.
+Me gusta gusta hacer registros visuales."
+    avatar = "me.jpg"
+
+
+[Params]
+    subtitle = "Aprendizaje compartido"
+    description = "Espacio para compartir conocimiento"
+    opengraph = true
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = true
+    post_navigation = true
+
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent arcticles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+        tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
