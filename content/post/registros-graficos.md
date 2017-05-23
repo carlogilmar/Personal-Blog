@@ -3,28 +3,26 @@ date = "2017-05-22T18:41:12-05:00"
 description = ""
 tags = ["registros gráficos"]
 thumbnail = ""
-title = "Haciendo Registro Gráfico"
+title = "De la práctica en los Registros Visuales"
 categories = ["Agile"]
 
 +++
 
-# Dibujando registros gráficos
+Hace poco más de un año asistí a un Meetup de la comunidad de Ágiles México. Era el segundo al que asistía , en esta ocasión el tema fue sobre  __Facilitación Gráfica__ por __@fperezguajardo__.
 
-Hace poco más de un año asistí a un Meetup de la comunidad de Ágiles México. Para mí era el segundo al que asistía , en esta ocasión el tema era  __Facilitación Gráfica__ por __@fperezguajardo__.
+A partir de ese momento descubrí lo importante que era para mí explorar más a fondo la creatividad por medio de dibujos, formas y colores. Siempre he sido una persona que raya libros con plumones, a la que le gusta llenar los cuadernos con rayones, claro, a pesar de no ser un gran dibujante. Lo que siempre he tenido claro es que: si lo puedo dibujar, lo puedo entender.
 
-A partir de ese momento descubrí lo necesario e importante que era para mí explorar más a fondo mi creatividad por medio de dibujos, formas y colores. Siempre he sido una persona que raya libros con plumones, a la que le gusta llenar los cuadernos con rayones, a pesar de no ser un gran dibujante. Lo que siempre he tenido claro es que: si lo puedo dibujar, lo puedo entender.
+![](/blog/facilitacion/nueve.jpg)
 
-Entonces me dediqué a usar más los dibujos como una herramienta de uso rudo. Cuando inicié a desarrollar software me ayudé de ello para tener algo que me ayudara a ver mi progreso, si podía explicarlo con figuras entonces era capaz de entenderlo.
+Entonces me comencén a usar más y más los dibujos como una herramienta de uso cotidiano. Cuando inicié a desarrollar software se convirtió en una herramienta mucho más útil y práctica.
 
-Pero no solo lo vi en mi, sino que también pude notar lo valioso que puede resultar una imagen cuando dos o más personas se están comunicando. Ya tenía claro que dibujar era una habilidad que todos deberíamos usar, y que seguramente nos facilitaría muchas cosas.
+Me sorprendía mucho ver la habilidad para hacer registros gráficos o bien para llevar a cabo facilitaciones gráficas, porque resulta una tarea muy compleja y que requiere del uso de muchos sentidos, como lo es el oído para poder escuchar detenidamente y fijar la atención fuera del ruido que pueda existir en el momento, se necesita del tacto y de una capacidad de concentración para ir plasmando las ideas principales, darles tamaño, forma, ubicación y consistencia.
 
-La habilidad de dibujar aporta demasiado, pero lo que más me sorprendía era ver la habilidad para hacer registros gráficos o bien para llevar a cabo facilitaciones gráficas, porque es todo un trabajo duro, difícil, y complejo, que requiere del uso de muchos sentidos, como lo es el oído para poder escuchar detenidamente y fijar la atención fuera del ruido que pueda existir en el momento, se necesita del tacto y de una capacidad de concentración para ir plasmando las ideas principales, darles tamaño, forma, ubicación y consistencia.
-
-Quiero a continuación platicar sobre tres experiencias:
+Quiero compartir tres experiencias que he tenido en relación a esto:
 
 ## Curso de Agilidad
 
-Fui el encargado de realizar los registros gráficos de un curso de agilidad en Making Devs. Está era la primera vez que me animaba a hacer algo así.
+Fui el encargado de realizar los registros gráficos de un curso de agilidad en __Making Devs__. Está era la primera vez que me animaba a hacer algo así.
 
 Al inicio éramos yo, plumones y un pliego en blanco. La primera gran dificultad que encontré para esta actividad fue: ¿por donde comienzo? ¿Por el título, por el banner, con una plantilla?
 
@@ -34,26 +32,21 @@ A medida que iba haciendo lamina tras lamina noté lo mucho que me costaba hacer
 
 La aplicación del color fue otro elemento importante, llegue a la conclusión de que muchos colores en una lamina provocaban que se perdiera el énfasis que podía dar a través del color, así que preferí usar  1 color, en diferentes tonos ñ para escribir títulos e ideas, por ejemplo verde en tono oscuro y claro, y 2 colores más: negro y rojo. Con el color negro me gusta hacer algunos dibujos, mientras que el rojo me ayuda a dar énfasis a ciertas ideas.
 
-En este curso note un ritmo muy tranquilo, donde por momentos había mucha información valiosa para escribir, pero que también tenía momentos (por ejemplo, cuando realizaban dinámicas grupales) donde me permitían tomarme tiempo para dar algunos detalles.
+En este curso tuvo un ritmo muy tranquilo, donde por momentos había mucha información valiosa para escribir, pero que también tenía momentos (por ejemplo, cuando realizaban dinámicas grupales) donde me permitían tomarme tiempo para dar algunos detalles.
 
 ### Aquí algunas láminas:
 
 Desarrollo ágil
 
+![](/blog/facilitacion/uno.jpg)
+
 > En esta lamina no pude encontrar una forma de darle estructura más uniforme a las ideas, por lo que mi impresión es que todo se ve revuelto, además de que los colores no ayudan.
-
-Predictibilidad
-
-> Aquí no logré ocupar todo el espacio disponible.
 
 Equipos ágiles
 
-> De nuevo, no logre disponer del espacio.
+![](/blog/facilitacion/dos.jpg)
 
-Historias de usuario
-Panorama de un proyecto
-
-> Mis mejores láminas
+> En esta lámina no logré disponer del espacio.
 
 ## Registros gráficos en reuniones
 
@@ -69,9 +62,13 @@ Al ver el poco tiempo que teníamos, y sabiendo que no podríamos hacer láminas
 
 Al final logramos hacer los 7 registros gráficos, y terminamos fundidos.
 
+![](/blog/facilitacion/tres.jpg)
+
 Los retos ahora además de decidir la forma de ir cubriendo el espacio de la lamina, fueron desde elegir un título de la charla (algunas no tenían definido uno), el poco tiempo que tuvimos, el trabajo en equipo para poder hacer todas las láminas, y el énfasis en las ideas principales.
 
 Desde entonces participamos en una reunión de Epic Queen, y en otra más de Hackers And Founders.
+
+![](/blog/facilitacion/cuatro.jpg)
 
 ## Registros gráficos en hackatón #comoniña
 
@@ -85,6 +82,14 @@ Creo que en este punto pasamos de hacer registros gráficos a la facilitación g
 
 Al final logramos hacer alrededor de 16 láminas.
 
+![](/blog/facilitacion/cinco.jpg)
+
+![](/blog/facilitacion/seis.jpg)
+
+![](/blog/facilitacion/siete.jpg)
+
+![](/blog/facilitacion/ocho.jpg)
+
 ## Satisfecho por la experiencia
 
 Después de estas tres experiencias puedo decir que he aprendido mucho, pues se han tratado de experiencias totalmente diferentes.
@@ -92,6 +97,10 @@ Después de estas tres experiencias puedo decir que he aprendido mucho, pues se 
 Y sin duda alguna es una actividad que disfruto hacer y practicar.
 
 Adicionalmente he comenzado a leer el libro __GameStorming__ para ahondar más en las dinámicas grupales y el uso de dibujos.
+
+Además hemos comenzado un tablero en trello donde estamos recopilando todos los registros visuales que vamos realizando, pueden verlo en:
+
+[Tablero Registros Visuales](https://trello.com/b/GjUP84Wz)
 
 Gracias por leer hasta acá.
 
