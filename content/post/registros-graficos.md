@@ -2,7 +2,7 @@
 date = "2017-05-22T18:41:12-05:00"
 description = ""
 tags = ["registros gráficos"]
-thumbnail = "/blog/facilitacion/tres.jpg"
+thumbnail = "/blog/facilitacion/machine.jpg"
 title = "De la práctica en los Registros Visuales"
 categories = ["Agile"]
 
@@ -66,7 +66,9 @@ Al final logramos hacer los 7 registros gráficos, y terminamos fundidos.
 
 Los retos ahora además de decidir la forma de ir cubriendo el espacio de la lamina, fueron desde elegir un título de la charla (algunas no tenían definido uno), el poco tiempo que tuvimos, el trabajo en equipo para poder hacer todas las láminas, y el énfasis en las ideas principales.
 
-Desde entonces participamos en una reunión de Epic Queen, y en otra más de Hackers And Founders.
+Desde entonces participamos en una reunión de Epic Queen, y en otra más de Hackers And Founders con @hmCuesta sobre Machine Learning.
+
+![](/blog/facilitacion/machine.jpg)
 
 ![](/blog/facilitacion/cuatro.jpg)
 
