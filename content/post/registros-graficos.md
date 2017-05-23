@@ -2,7 +2,7 @@
 date = "2017-05-22T18:41:12-05:00"
 description = ""
 tags = ["registros gráficos"]
-thumbnail = ""
+thumbnail = "/blog/facilitacion/tres.jpg"
 title = "De la práctica en los Registros Visuales"
 categories = ["Agile"]
 
