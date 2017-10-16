@@ -15,6 +15,7 @@ googleAnalytics="UA-90617617-1"
 
 [Params]
     subtitle = "Aprendizaje compartido"
+    lastUpdated= "Last Update: 15/Oct/2017"
     description = "Espacio para compartir conocimiento"
     opengraph = true
     leftsidebar = false # Move sidebar to the left side if true
