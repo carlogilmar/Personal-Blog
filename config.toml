@@ -45,8 +45,8 @@ paginate = 5
 
     logo = "img/logo.png"
 
-#[Permalinks]
-#    blog = ""
+[Permalinks]
+    blog = "/post/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
