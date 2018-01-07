@@ -1,13 +1,7 @@
 +++
-css = []
 date = "2016-10-09T14:04:47-05:00"
 description = ""
-image = "slack3.png"
-draft = true
-highlight = true
-scripts = []
 title = "How to send Slack Messages with Groovy"
-
 categories= ['Developer']
 tags = ['Slack', "Groovy"]
 thumbnail = "slack3.png"

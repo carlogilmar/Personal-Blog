@@ -1,8 +1,5 @@
 +++
 date = "2016-03-18T09:13:50-06:00"
-draft = true
-image = ""
-showonlyimage = false
 title = "Ponencia de Software Libre para UPIICSA"
 categories= ['Software-Libre']
 +++

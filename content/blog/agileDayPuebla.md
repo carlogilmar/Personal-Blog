@@ -1,8 +1,6 @@
 +++
 
 image = "/blog/agileDay/siete.jpg"
-showonlyimage = false
-draft = true
 date = "2017-01-22T15:45:11-06:00"
 title = "Agile Day Puebla"
 thumbnail = "blog/agileDay/tres.jpg"

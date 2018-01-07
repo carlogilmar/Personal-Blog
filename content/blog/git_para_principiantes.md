@@ -1,11 +1,6 @@
 +++
-css = []
 date = "2016-09-26T21:22:27-05:00"
 description = ""
-draft = true
-image = "uno.jpg"
-highlight = true
-scripts = []
 title = "Git para Principiantes"
 categories= ['Git']
 tags = ['Git']

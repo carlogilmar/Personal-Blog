@@ -1,10 +1,6 @@
 +++
 date = "2016-03-20T09:04:47-06:00"
-draft = true
-image = "blog/project/ocho.jpg"
-showonlyimage = false
 title = "Mi Primer Proyecto Ágil"
-
 categories= ['Agile']
 tags = ['project']
 thumbnail = "blog/project/nueve.jpg"

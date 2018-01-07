@@ -1,9 +1,6 @@
 +++
-image = "img/tools.jpg"
-showonlyimage = false
 date = "2017-01-17T22:51:32-06:00"
 title = "Las herramientas básicas de un desarrollador de Software"
-draft = true
 categories= ['Developer']
 tags = ['Tools']
 thumbnail = "blog/developer/tools.jpg"

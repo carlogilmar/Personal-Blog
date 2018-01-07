@@ -1,8 +1,5 @@
 +++
 date = "2016-06-02T09:01:50-06:00"
-draft = true
-image = "blog/agileopen/about.jpg"
-showonlyimage = false
 title = "Mi Primer Agile Open"
 
 categories= ['Agile']

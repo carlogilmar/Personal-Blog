@@ -1,11 +1,6 @@
 +++
-css = []
 date = "2016-10-09T12:29:51-05:00"
 description = ""
-image = "vertx.png"
-draft = true
-highlight = true
-scripts = []
 title = "Connect Vertx with MongoDB using Groovy"
 categories= ['Developer']
 tags = ['Vertx', "Groovy"]

@@ -1,8 +1,6 @@
 +++
 date = "2016-06-09T08:53:18-06:00"
-draft = true
 image = "blog/planet/hero.jpeg"
-showonlyimage = false
 title = "Agile Planet ScketchNotes Review"
 categories= ['Agile']
 thumbnail = "blog/planet/hero.jpeg"

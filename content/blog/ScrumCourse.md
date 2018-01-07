@@ -1,8 +1,5 @@
 +++
 date = "2016-07-18T08:42:37-06:00"
-draft = true
-image = "blog/scrum/me.png"
-showonlyimage = false
 title = "Scrum Para Altos Directivos"
 categories= ['Agile']
 tags = ['Scrum']
