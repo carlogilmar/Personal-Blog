@@ -1,105 +1,68 @@
-baseurl = "https://carlogilmar.github.io/"
-title = "Blog de Carlo Gilmar"
-theme = "hugo-universal-theme"
+baseurl = "https://carlogilmar.github.io/blog/"
 languageCode = "en-us"
-defaultContentLanguage = "en"
+title = "@carlogilmar"
+theme = "hugo-theme-bootstrap4-blog"
+paginate = 5
+copyright = "This blog was created in 2016 for share my experiencies, knowledge and learning experiences. <br> For any question please contact me here: carlogilmar12@gmail.com or just send me a tweet. <br> Thank you for visit my content. <br> <strong> Last updated: June, 2019.</strong>"
+#
 disqusShortname = "carlogilmar-github-io"
 googleAnalytics="UA-90617617-1"
 
-paginate = 5
+[permalinks]
+post = "/:year/:month/:title/"
+page = "/:slug/"
 
-[menu]
 
-[[menu.main]]
-    name = "Home"
-    url  = "/"
-    weight = 1
+#[[menu.navbar]]
+#  name = "Link 1"
+#  url = "https://example.org"
 
-[[menu.topbar]]
-    weight = 1
-    name = "GitHub"
-    url = "https://github.com/carlogilmar"
-    pre = "<i class='fa fa-2x fa-github'></i>"
 
-[[menu.topbar]]
-    weight = 3
-    name = "Twitter"
-    url = "http://twitter.com/carlogilmar"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
-
+# Theme variables
+#
 [params]
-    viewMorePostLink = "/post/"
-    author = "Carlo Gilmar"
-    defaultKeywords = ["carlogilmar"]
-    defaultDescription = "Espacio para compartir las experiencias y aprendizajes en el desarrollo de software."
+# Site author
+author = "@carlogilmar"
 
-    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "red"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+# Description/subtitle for homepage (can be Markdown)
+description = "<small>Blog for share my learning experience as software developer since 2016.</small>"
 
-    # Format dates with Go's time formatting
-    date_format = "January 2, 2006"
+# Show header (default: true)
+#header_visible = true
 
-    logo = "img/logo.png"
+# Format dates with Go's time formatting
+date_format = "Mon Jan 02, 2006"
 
-[Permalinks]
-    blog = "/post/:filename/"
+# verification string for Google Webmaster Tools
+#google_verify_meta = "BAi57DROASu4b2mkVNA_EyUsobfA7Mq8BmSg7Rn-Zp9"
 
-# Enable or disable top bar with social icons
-[params.topbar]
-    enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
-      </p>
-      """
+# Optionally display a message about the site's use of cookies, which may be
+# required for your site in the European Union. Set the parameter below to a
+# page where the user can get more information about cookies, either on your
+# site or externally, for example:
+#cookie_consent_info_url = "/cookie-information/"
+#cookie_consent_info_url = "http://cookiesandyou.com"
 
-# Enable and disable widgets for the right sidebar
-[params.widgets]
-    categories = true
-    tags = true
-    search = true
+# show sharing icons on pages/posts (default: true)
+#sharingicons = true
 
-[params.carousel]
-    enable = true
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more informtion take a look at the README.
+# Display post summaries instead of content in list templates (default: true)
+#truncate = true
 
-[params.features]
-    enable = true
-    # All features are defined in their own files. You can find example items
-    # at 'exampleSite/data/features'.
-    # For more informtion take a look at the README.
+# Disable the use of sub-resource integrity on CSS/JS assets (default: false)
+# Useful if you're using a CDN or other host where you can't control cache headers
+#disable_sri = false
 
-[params.testimonials]
-    enable = true
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
-    # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+[params.sidebar]
+# Optional about block for sidebar (can be Markdown)
+about = ""
 
-[params.see_more]
-    enable = true
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+# How many posts to show on the sidebar (Default: 5)
+#num_recent_posts = 2
 
-[params.last_update]
-    date= "Última actualización:"
+[params.social]
+# Optional, used for attribution in Twitter cards (ideally not a person
+# for example: nytimes, flickr, NatGeo, etc).
+# See: https://dev.twitter.com/cards/types/summary-large-image
+twitter = "carlogilmar"
 
-[params.clients]
-    enable = true
-    # All clients are defined in their own files. You can find example items
-    # at 'exampleSite/data/clients'.
-    # For more informtion take a look at the README.
-    title = "Our Clients"
-    subtitle = ""
-
-[params.recent_posts]
-    enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
