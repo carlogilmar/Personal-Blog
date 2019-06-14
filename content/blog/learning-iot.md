@@ -1,12 +1,11 @@
 +++
 title = "Learning IoT: First Steps with Elixir"
 tags = ["elixir"]
-categories = ["elixir"]
+categories = ["programming", "phoenix", "iot"]
 date = "2018-09-12"
-thumbnail = "blog/iot/uno.png"
 +++
 
-![](/blog/iot/uno.png)
+![](/blog/blog/iot/uno.png)
 
 Recently I have the opportunity to give a conference in the [Startup Week in Mexico City](https://techstarsstartupweekmexicoc2018.sched.com/event/G1Kh/internet-of-things-primeros-pasos). So I decided talk about Internet of things, because I was learning this using an **Arduino** and a **Raspberry Pi**.
 
@@ -24,7 +23,7 @@ I use the arduino for built a circuit based on receipt and send signals using th
 
 And when the circuit receives a signal, they could do something: turn on leds, etc. I used the **Arduino IDE** for test this circuit, for send and receive signals.
 
-![](/blog/iot/dos.png)
+![](/blog/blog/iot/dos.png)
 
 ## The Raspberry-Pi
 
@@ -48,7 +47,7 @@ Raspbian SO have a simple way to install elixir, although you will have the vers
 
 The web app has planned for assign a different sound per user. For this I used the Channels for create sockets connections and I created a simple gen server for get the sound.
 
-```
+``` Ruby
 defmodule Chatter.Director do
 
   use GenServer
@@ -100,7 +99,7 @@ defmodule Chatter.Director do
 end
 ```
 
-![](/blog/iot/tres.png)
+![](/blog/blog/iot/tres.png)
 
 #### Getting a sound per user connected
 
@@ -118,7 +117,7 @@ For know more about Sockets in Phoenix you could visit my [last post](http://car
 
 #### Client side
 
-![](/blog/iot/seis.png)
+![](/blog/blog/iot/seis.png)
 
 For play and stop music I implement the Howler JS library in the client side from Phoenix. When a user is getting connected, the app assign a sound.
 
@@ -136,7 +135,7 @@ Using the broadcast messaging I could send strings, and in the client side I pla
 
 So, at this point I have a simple circuit running on the **Arduino**, and a **Phoenix Web App**. The next step is connect both. For this purpose I used [Nerves UART Projet](https://github.com/nerves-project/nerves_uart).
 
-![](/blog/iot/cuatro.png)
+![](/blog/blog/iot/cuatro.png)
 
 For understand how it works, read the documentation is enough.
 
@@ -210,7 +209,7 @@ end
 
 With all of this I could connect everything and make the little demo. I built a simple device connecting all of this as a example of how IoT works.
 
-![](/blog/iot/cinco.png)
+![](/blog/blog/iot/cinco.png)
 
 ## Bonus: Telegram
 

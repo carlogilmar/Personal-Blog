@@ -1,9 +1,8 @@
 +++
 title = "Ember JS First Steps"
-tags = ["ember"]
+tags = ["javascript"]
 categories = ["ember"]
 date = "2018-05-03"
-thumbnail = "blog/embersteps/ember1.png"
 +++
 
 In the last post [Learning Ember](http://carlogilmar.me/post/learning-ember/) I talk about how to start with Ember.
@@ -18,7 +17,7 @@ My main recommendation for persons who are learning Ember is start with understa
 
 #### This are for me the main concepts that you have to understand:
 
-![](/blog/embersteps/ember1.png)
+![](/blog/blog/embersteps/ember1.png)
 
 ### The Main View
 
@@ -49,7 +48,7 @@ And this are going to generate three files: **a JS file, a HBS file, and a test 
 ### Render Views
 All routes created by us will start in the **application** view (the father view), and this routes will be render into the application view.
 
-![](/blog/embersteps/ember2.png)
+![](/blog/blog/embersteps/ember2.png)
 
 > If we go to **localhost:4200** we will see only the application view. But if we go to **localhost:4200/page1** we will see the **application** view and the **page1** route view.
 
@@ -74,7 +73,7 @@ We can use the handlebars tag for link views:
 <br> {{#link-to 'application'}} Return {{/link-to}}
 ```
 
-![](/blog/embersteps/ember3.png)
+![](/blog/blog/embersteps/ember3.png)
 
 We can create more with the templates and routes, but this is a basic example about it, and I think that this would be clear for understand this Framework.
 

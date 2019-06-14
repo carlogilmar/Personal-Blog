@@ -2,9 +2,8 @@
 title = "Phoenix Simple App using Web Sockets"
 description = ""
 date = "2018-03-30"
-categories = ['elixir', 'phoenix']
-tags = ['elixir', 'phoenix']
-thumbnail = "blog/phoenix/phoenix3.png"
+categories = ['elixir' ]
+tags = ['programming', 'phoenix']
 +++
 
 Hi! This post is for explain how to create a simple application with Phoenix and Elixir using Web Sockets.
@@ -17,7 +16,7 @@ I created a phoenix project without ecto `mix phx.new sampler --no-ecto` for sho
 
 ### Create the two-way communication
 
-![](/blog/phoenix/phoenix1.png)
+![](/blog/blog/phoenix/phoenix1.png)
 
 For start, we have to create the communication through the web socket.
 
@@ -67,7 +66,7 @@ The last step is  update our `user_socket.ex`adding the next line:
 
 If we run the application and check the browser in `localhost:4000` we will see the connection result in the console.
 
-![](/blog/phoenix/demo1.png)
+![](/blog/blog/phoenix/demo1.png)
 
 ### Sending Messages
 
@@ -94,7 +93,7 @@ In our example channel, we can create a function for response to this direction 
 
 ### Sending Broadcast
 
-![](/blog/phoenix/phoenix2.png)
+![](/blog/blog/phoenix/phoenix2.png)
 
 We can modify out last snippet for send a broadcast message to other channel `example:alert`adding: `broadcast! socket, "example:alert", payload`
 
@@ -116,11 +115,11 @@ In our `socket.js`we can add this below to the channel join connection:
  })
 ```
 
-![](/blog/phoenix/phoenix3.png)
+![](/blog/blog/phoenix/phoenix3.png)
 
 And this channel are going to receive all messages to **”example:alert”** direction. For this case we are sending a broadcast message, so, we can open many browsers and wait the alert when the message are sended. ( this appears when you reload your application in `localhost:4000`)
 
-![](/blog/phoenix/demo2.png)
+![](/blog/blog/phoenix/demo2.png)
 
 #### With this you will have a simple application using sockets connection, join a channel in client side, sending messages and broadcast messages.
 

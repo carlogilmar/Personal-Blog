@@ -2,9 +2,8 @@
 title = "Charla en UNAM FES Acatlán"
 description = "Charla de Cultura Ágil en FES Acatlán"
 date = "2017-10-16T14:04:47-05:00"
-categories = ["Agile", "Developer"]
-tags = ["Agile", "Scrum"]
-thumbnail = "/blog/unam/fes1.png"
+categories = ["agile"]
+tags = ["community", "scrum"]
 +++
 
 Este mes de Octubre el **equipo de Making Devs** fue invitado a un evento en la **FES Acatlán de la UNAM**, donde festejaban el aniversario de la **Licenciatura en Matemáticas Aplicadas y Computación**. En representación del equipo asistí junto a [@cggg88jorge](https://twitter.com/cggg88jorge), [@vane_emily](https://twitter.com/Vane_Emily), en una charla sobre Cultura Ágil para estudiantes de los primeros semestres de esa misma carrera.
@@ -52,7 +51,7 @@ Aquí pueden consultar la presentación de la charla: [Presentación de Cultura 
 Gracias por leer.
 
 
-[1]: /blog/unam/fes2.png
-[2]: /blog/unam/fes3.png
-[3]: /blog/unam/fes4.png
+[1]: /blog/blog/unam/fes2.png
+[2]: /blog/blog/unam/fes3.png
+[3]: /blog/blog/unam/fes4.png
 

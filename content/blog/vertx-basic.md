@@ -1,14 +1,10 @@
 +++
-categories = ['Groovy']
 date = "2017-07-25T22:54:16-05:00"
 description = ""
-tags = ['vertx', 'groovy']
-thumbnail = "blog/vertx/vertx1.png"
+categories = ['groovy']
+tags = ['vertx']
 title = "Develop with VertX"
-author="Carlo Gilmar Padilla Santana"
-
 +++
-
 
 ### This was a post writted for **Making Devs Blog**.
 
@@ -71,7 +67,7 @@ Thanks for reading.
 
 @carlogilmar
 
-[1]: /blog/vertx/vertx1.png
-[2]: /blog/vertx/vertx2.png
-[3]: /blog/vertx/vertx3.png
+[1]: /blog/blog/vertx/vertx1.png
+[2]: /blog/blog/vertx/vertx2.png
+[3]: /blog/blog/vertx/vertx3.png
 

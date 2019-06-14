@@ -1,9 +1,8 @@
 +++
 title = "Learning Ember JS"
-tags = ["ember"]
-categories = ["ember"]
+tags = ["javascript"]
+categories = ["programming", "ember"]
 date = "2018-04-11"
-thumbnail = "blog/learning-ember/uno.png"
 +++
 
 Follow with learning more about Ember Js as our JS framework, I have to talk about my learning experience.
@@ -38,11 +37,11 @@ I recommend use **Google Chrome** for develop and install the **Ember Inspector 
 
 The framework contains the following core libraries
 
-![](/blog/learning-ember/uno.png)
+![](/blog/blog/learning-ember/uno.png)
 
 The ember ecosystem contains:
 
-![](/blog/learning-ember/dos.png)
+![](/blog/blog/learning-ember/dos.png)
 
 ### Hello World!
 We are going to use the Ember Cli for create a simple application
@@ -55,7 +54,7 @@ And you can see you first application with:
 
 This generate a project with the Ember Structure Folder.
 
-![](/blog/learning-ember/tres.png)
+![](/blog/blog/learning-ember/tres.png)
 
 Although Ember has a lot of things created by default, I recommend go step by step.
 

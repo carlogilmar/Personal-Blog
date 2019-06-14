@@ -1,9 +1,9 @@
 +++
 date = "2016-09-18T19:17:47-05:00"
 description = "Nos migramos a Go-Hugo"
-tags = []
 title = "Adiós Wordpress y Hola Hugo"
-
+categories= ['gohugo']
+tags = ['programming']
 +++
 
 *Hola Mundo*

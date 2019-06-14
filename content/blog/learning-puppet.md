@@ -1,9 +1,8 @@
 +++
 title = "Learning Puppet"
-tags = ["puppet"]
-categories = ["puppet"]
+tags = ["ruby"]
+categories = ["puppet", "devops"]
 date = "2018-05-07"
-thumbnail = "blog/puppet/puppet.png"
 +++
 
 # Learning Puppet

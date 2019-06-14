@@ -1,9 +1,8 @@
 +++
 date = "2016-07-18T08:42:37-06:00"
 title = "Scrum Para Altos Directivos"
-categories= ['Agile']
-tags = ['Scrum']
-thumbnail = "blog/scrum/me.png"
+categories= ['agile']
+tags = ['community', 'scrum']
 +++
 
 Recientemente tuve la oportunidad de asistir a la charla de Scrum para Altos Ejecutivos y Directivos en Lymon. Ahora me toca compartir lo que aprendí a mi manera.
@@ -60,16 +59,16 @@ CONCLUSIONES:
 
 Me queda muy claro que SCRUM es un marco organizacional inclusivo.SCRUM, como las metodologías ágiles, son parte de un proceso de cambio organizacional paulatino.Más que una receta, metodología con pasos exactos a seguir, desde mi perspectiva con oportunidad de errar puedo decir que se trata de una forma de vivir, no es algo limitado al desarrollo.Aunque se usa actualmente para el desarrollo de proyectos de TI, es escalable a otros campos.Esto es: ¡Toma de conciencia de nuestros actos como personas!El modelo SCRUM es versátil. Puede aplicarse en un equipo pequeño y dar resultados, sin que necesariamente se aplique complementente en cada rincón de la organización.Es conveniente incluir al directivo/ejecutivo y ubicarlo en algún rol, de forma que sienta cómo es el ritmo de trabajo y pueda tener participación asertiva.
 
-[1]: /blog/scrum/me.png
-[2]: /blog/scrum/uno.jpg
-[3]: /blog/scrum/dos.jpg
-[4]: /blog/scrum/tres.jpg
-[5]: /blog/scrum/cuatro.jpg
-[6]: /blog/scrum/cinco.jpg
-[7]: /blog/scrum/seis.jpg
-[8]: /blog/scrum/siete.jpg
-[9]: /blog/scrum/ocho.jpg
-[10]: /blog/scrum/nueve.jpg
-[11]: /blog/scrum/diez.jpg
-[12]: /blog/scrum/once.jpg
-[13]: /blog/scrum/doce.jpg
+[1]: /blog/blog/scrum/me.png
+[2]: /blog/blog/scrum/uno.jpg
+[3]: /blog/blog/scrum/dos.jpg
+[4]: /blog/blog/scrum/tres.jpg
+[5]: /blog/blog/scrum/cuatro.jpg
+[6]: /blog/blog/scrum/cinco.jpg
+[7]: /blog/blog/scrum/seis.jpg
+[8]: /blog/blog/scrum/siete.jpg
+[9]: /blog/blog/scrum/ocho.jpg
+[10]: /blog/blog/scrum/nueve.jpg
+[11]: /blog/blog/scrum/diez.jpg
+[12]: /blog/blog/scrum/once.jpg
+[13]: /blog/blog/scrum/doce.jpg

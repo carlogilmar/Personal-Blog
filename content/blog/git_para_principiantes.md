@@ -1,10 +1,8 @@
 +++
 date = "2016-09-26T21:22:27-05:00"
-description = ""
 title = "Git para Principiantes"
-categories= ['Git']
-tags = ['Git']
-thumbnail = "uno.jpg"
+categories= ['git']
+tags = ['programming']
 +++
 
 ---
@@ -18,11 +16,11 @@ Este querido amigo nos servirá para monitorear los archivos de un proyecto, y a
 
 Les presento al R2D2-Git y las funciones básicas para tenerlo funcionando en un proyecto.
 
-![Hola Git](/uno.jpg)
+![Hola Git](/blog/uno.jpg)
 
 Git se ejecuta dentro de la carpeta principal de nuestro proyecto y reconoce TODO lo qué hay dentro.
 
-![Git init](/dos.jpg)
+![Git init](/blog/dos.jpg)
 
 Entonces, a partir de ese momento ya no estarás solo en el desarrollo del proyecto, porque Git estará para apoyarte.
 
@@ -35,14 +33,14 @@ Veamos como ir usando Git poco a poco.
 
 Primero debemos preguntarle qué ve en nuestro proyecto el pequeño amigo Git, el hablara con la verdad y dirá cada archivo qué hay que no este monitoreando.
 
-![Status](/tres.jpg)
+![Status](/blog/tres.jpg)
 
 ---
 # DILE A GIT DONDE PONER EL OJO
 
 Una vez que sabemos el estado de aquello que no está monitoreando, podemos indicarle a Git qué archivo debe monitorear, podemos iniciar por uno.
 
-![Add](/cuatro.jpg)
+![Add](/blog/cuatro.jpg)
 
 Si volvemos a pedirle el STATUS, verás que ya no cuenta el archivo agregado.
 
@@ -52,7 +50,7 @@ Si volvemos a pedirle el STATUS, verás que ya no cuenta el archivo agregado.
 
 Una vez que Git ya está monitoreando el archivo, habrá que indicarle una descripción corta de qué es el archivo, qué se modificó, etc.
 
-![Commit](/cinco.jpg)
+![Commit](/blog/cinco.jpg)
 
 ---
 
@@ -60,14 +58,14 @@ Una vez que Git ya está monitoreando el archivo, habrá que indicarle una descr
 
 Si agregamos un archivo (ADD) dentro del proyecto, y le damos un COMMIT, entonces estará siendo monitoreado por Git. Es necesario ir agregando cada archivo a Git mediante el ADD-COMMIT.
 
-![Rutine](/siete.jpg)
-![Rutine 2](/ocho.jpg)
+![Rutine](/blog/siete.jpg)
+![Rutine 2](/blog/ocho.jpg)
 
 Una vez que el STATUS no muestre ningún archivo, tendremos nuestro proyecto versionado bajo la mirada y el monitor de Git.
 
 Si modificaramos un archivo, automáticamente el STATUS mostrará que hubo un cambio e indicará el archivo, de igual forma lo hará si se añaden nuevos archivos al proyecto.
 
-![Diff](/seis.jpg)
+![Diff](/blog/seis.jpg)
 
 Es posible identificar las diferencias existentes en un archivo, bastará con indicarle a git.
 

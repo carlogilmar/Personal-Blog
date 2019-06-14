@@ -2,9 +2,8 @@
 title = "Github Field Day México"
 description = ""
 date = "2018-02-15T09:13:50-06:00"
-categories = ['developer', 'github', 'git']
-tags = ['github']
-thumbnail = "blog/github/github1.png"
+categories = ['github' ]
+tags = ['community']
 +++
 
 El sábado pasado tuve la oportunidad de asistir al primer **Github Field Day** en México, organizado por los Github Campus Experts locales.
@@ -15,7 +14,7 @@ El evento trató de reunir a estudiantes y sus comunidades tecnológicas en un d
 
 Creémos que un registro gráfico de un evento siempre deja una sensación agradable, por lo que propusimos la idea y fue aceptada. Aquí el registro:
 
-![](/blog/github/github2.png)
+![](/blog/blog/github/github2.png)
 
 ### La desconferencia
 
@@ -37,7 +36,7 @@ Como ya había realizado el Módulo 16 del entrenamiento de Github Campus Expert
 
 Anteriormente ya había tenido la oportunidad de probarla en el último Agile Open.
 
-![](/blog/github/github3.png)
+![](/blog/blog/github/github3.png)
 
 Básicamente la charla tiene por objetivo platicar sobre los principales usos de **git** y los beneficios de usarlo con plataformas como **github**. Al parecer pocos usan esta herramienta, por lo que creo que fue un buen tema para promover su uso, y hacer incapié en los principales beneficios tanto técnicos (controlador de versiones, manejo de features, manejo del tiempo en un proyecto), como colaborativos (flujos de trabajo, estadísticas de desempeño, exploración del flujo de un proyecto).
 

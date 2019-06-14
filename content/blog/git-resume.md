@@ -1,9 +1,8 @@
 +++
-categories = ["developer","git"]
 date = "2017-07-29T00:23:08-05:00"
 description = ""
-tags = ["git"]
-thumbnail = "/blog/git/git1.jpg"
+categories = ["git"]
+tags = ["programming"]
 title = "Resumen del Taller básico de Git"
 
 +++
@@ -33,10 +32,10 @@ title = "Resumen del Taller básico de Git"
 
 ![][7]
 
-[1]: /blog/git/git1.jpg
-[2]: /blog/git/git-init.gif
-[3]: /blog/git/git-commit.gif
-[4]: /blog/git/second-commit.gif
-[5]: /blog/git/git-diff.gif
-[6]: /blog/git/git-reset.gif
-[7]: /blog/git/git-remote.gif
+[1]: /blog/blog/git/git1.jpg
+[2]: /blog/blog/git/git-init.gif
+[3]: /blog/blog/git/git-commit.gif
+[4]: /blog/blog/git/second-commit.gif
+[5]: /blog/blog/git/git-diff.gif
+[6]: /blog/blog/git/git-reset.gif
+[7]: /blog/blog/git/git-remote.gif

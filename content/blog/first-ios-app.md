@@ -2,9 +2,8 @@
 title = "First iOS App: Sending Messages to Slack"
 description = ""
 date = "2017-09-29T00:23:08-05:00"
-categories = ["swift", "iOS", "Developer"]
-tags = ["swift", "slack", "developer"]
-thumbnail = "/blog/homebot/ios.png"
+categories = ["swift"]
+tags = ["programming", "ios"]
 +++
 
 Hey! I have been learning how to program swift because I want to write iOS apps.
@@ -76,8 +75,6 @@ This was my first iOS app, although I have a lot of errors, I'm so excited becau
 
 Thanks for reading!
 
-[1]: /blog/homebot/ios1.png
-[2]: /blog/homebot/ios2.png
-
-
+[1]: /blog/blog/homebot/ios1.png
+[2]: /blog/blog/homebot/ios2.png
 

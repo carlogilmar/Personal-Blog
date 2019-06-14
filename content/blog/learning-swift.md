@@ -1,9 +1,8 @@
 +++
 title = "Learning Swift"
 tags = ["swift"]
-categories = ["swift"]
+categories = ["programming"]
 date = "2018-07-05"
-thumbnail = "blog/swift/swift.png"
 +++
 
 # Learning Swift

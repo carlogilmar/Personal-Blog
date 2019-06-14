@@ -1,9 +1,8 @@
 +++
-
-image = "/blog/agileDay/siete.jpg"
 date = "2017-01-22T15:45:11-06:00"
 title = "Agile Day Puebla"
-thumbnail = "blog/agileDay/tres.jpg"
+categories= ['agile']
+tags = ['community']
 +++
 
 Este sábado 21 de Enero sucedió el **Agile Day** en la Inventoteca de la ciudad de Puebla, y ahora les comparto un poco de lo que sucedió.
@@ -95,10 +94,10 @@ Gracias por leer.
 
 **@carlogilmar**
 
-[1]: /blog/agileDay/uno.jpg
-[2]: /blog/agileDay/dos.jpg
-[3]: /blog/agileDay/tres.jpg
-[4]: /blog/agileDay/cuatro.jpg
-[5]: /blog/agileDay/cinco.jpg
-[6]: /blog/agileDay/seis.jpg
-[7]: /blog/agileDay/siete.jpg
+[1]: /blog/blog/agileDay/uno.jpg
+[2]: /blog/blog/agileDay/dos.jpg
+[3]: /blog/blog/agileDay/tres.jpg
+[4]: /blog/blog/agileDay/cuatro.jpg
+[5]: /blog/blog/agileDay/cinco.jpg
+[6]: /blog/blog/agileDay/seis.jpg
+[7]: /blog/blog/agileDay/siete.jpg

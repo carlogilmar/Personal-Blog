@@ -1,9 +1,8 @@
 +++
 title = "Process in Elixir: A Simple Example"
 tags = ["elixir"]
-categories = ["elixir"]
+categories = ["programming"]
 date = "2018-04-02"
-thumbnail = "blog/process/dcuatro.png"
 +++
 
 In the last days I have been learning about Process in Elixir. After doing some exercises and understand some things about it, I can explain how to create a simple example about process.
@@ -16,14 +15,14 @@ Work with process in Elixir is so common, so, it’s important know how to use i
 
 When you have a process alive, you can send it messages, for do this you only have to send with the process ID and a message (a data structure, a tuple, an atom…) .
 
-![](/blog/process/duno.png)
+![](/blog/blog/process/duno.png)
 
 For make this more clearly I will show how to create an example.
 
 ## Ping Pong Example With a Process
 We have to create a simple function and create a `receiver`, within this, we are going to use the patter matching for receive different types of messages, in this case we are to receive two atoms: `:ping`and `:pong`. When we receive this, we will print a message.
 
-![](/blog/process/ddos.png)
+![](/blog/blog/process/ddos.png)
 
 ``` elixir
 defmodule Pingpong do
@@ -42,14 +41,14 @@ end
 
 If we run the `iex`shell we can create a process with this function and send it a messages for print the `ping`and `pong`:
 
-![](/blog/process/uno.png)
+![](/blog/blog/process/uno.png)
 
 You will see that only in the first message sent we can see the printed message
 
 ## Process Alive
 This happens because the process created was killed after receive the first message. We can know if the process is alive in the `iex`shell:
 
-![](/blog/process/dos.png)
+![](/blog/blog/process/dos.png)
 
 The solution for avoid this is call the same function in the receiver, with this the process won’t be killed after receive a message.
 
@@ -68,13 +67,13 @@ The solution for avoid this is call the same function in the receiver, with this
 
 We are sending a message to a process alive. Now I want that this process send messages to the same process for do the `ping-pong`.
 
-![](/blog/process/tres.png)
+![](/blog/blog/process/tres.png)
 
 ## Ping Pong in the same Process
 
 My first try is that when the process receive a message, send the other message to the same process.
 
-![](/blog/process/dtres.png)
+![](/blog/blog/process/dtres.png)
 
 For this we only have to include the process ID in the tuple, and make a send with the other message.
 
@@ -99,12 +98,12 @@ I’m going to print the process id in the function using `self()` .
   end
 ```
 
-![](/blog/process/cuatro.png)
+![](/blog/blog/process/cuatro.png)
 
 ## Ping Pong with Two Process
 Now we have to create the `ping-pong` example with two process.
 
-![](/blog/process/dcuatro.png)
+![](/blog/blog/process/dcuatro.png)
 
 For do this we can create two process of the same function.  Instead of get a single process id in the `receiver`we can receive two process Id.
 
@@ -129,7 +128,7 @@ For do this we can create two process of the same function.  Instead of get a si
 
 We can see which process are print the `ping`or `pong` message.
 
-![](/blog/process/cinco.png)
+![](/blog/blog/process/cinco.png)
 
 #### With simple exercise I understand how to create process and send messages
 ##### It's important because Elixir use it a lot!

@@ -2,9 +2,8 @@
 title = "PacktPub Review: Effective Jenkins"
 description = ""
 date = "2018-04-17"
-categories = ['packtpub', 'jenkins']
-tags = ['ember']
-thumbnail = "blog/jenkins/jenkins1.png"
+categories = ['jenkins']
+tags = ['devops']
 +++
 
 
@@ -34,7 +33,7 @@ This course, by **Rodrigo Zacheu Russo**, ​has four main topics. In every topi
 
 Here is a picture I drew for the main topics:
 
-![](/blog/jenkins/jenkins2.jpg)
+![](/blog/blog/jenkins/jenkins2.jpg)
 
 ### Implementing an Acceptance Stage
 

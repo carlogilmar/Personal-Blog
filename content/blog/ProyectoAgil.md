@@ -1,9 +1,8 @@
 +++
 date = "2016-03-20T09:04:47-06:00"
 title = "Mi Primer Proyecto Ágil"
-categories= ['Agile']
-tags = ['project']
-thumbnail = "blog/project/nueve.jpg"
+categories= ['agile']
+tags = ['programming']
 +++
 
 En una materia de mi carrera me pidieron armar un equipo y pensar en una idea a desarrollar... la materia es Construcción de Base de Datos.
@@ -99,13 +98,13 @@ Por supuesto que mentímos con el cronograma que habíamos entregado a la maestr
 
 Gracias por leer, Carlo.
 
-[1]: /blog/project/uno.jpg
-[2]: /blog/project/dos.jpg
-[3]: /blog/project/tres.jpg
-[4]: /blog/project/cuatro.jpg
-[5]: /blog/project/cinco.jpg
-[6]: /blog/project/seis.jpg
-[7]: /blog/project/siete.jpg
-[8]: /blog/project/ocho.jpg
-[9]: /blog/project/nueve.jpg
-[10]: /blog/project/diez.png
+[1]: /blog/blog/project/uno.jpg
+[2]: /blog/blog/project/dos.jpg
+[3]: /blog/blog/project/tres.jpg
+[4]: /blog/blog/project/cuatro.jpg
+[5]: /blog/blog/project/cinco.jpg
+[6]: /blog/blog/project/seis.jpg
+[7]: /blog/blog/project/siete.jpg
+[8]: /blog/blog/project/ocho.jpg
+[9]: /blog/blog/project/nueve.jpg
+[10]: /blog/blog/project/diez.png

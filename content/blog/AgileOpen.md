@@ -1,10 +1,8 @@
 +++
 date = "2016-06-02T09:01:50-06:00"
 title = "Mi Primer Agile Open"
-
-categories= ['Agile']
-tags = ['agileOpen']
-thumbnail = "blog/agileopen/doce.jpg"
+categories= ['agile']
+tags = ['community']
 +++
 
 Este śabado tuve la oportunidad de poder participar en el Agile Open 2016 organizado por la comunidad de Ágiles México, pensaba escribir un largo y emotivo texto, pero ya que tengo tiempo libre lo intentare explicar con Facilitación Gráfica, ¡a ver que tal me sale!
@@ -57,16 +55,16 @@ Sin duda alguna un día lleno de pasión, felicidad y motivación.
 
 Mil gracias por leer.
 
-[1]: /blog/agileopen/about.jpg
-[2]: /blog/agileopen/uno.jpg
-[3]: /blog/agileopen/dos.jpg
-[4]: /blog/agileopen/tres.jpg
-[5]: /blog/agileopen/cuatro.jpg
-[6]: /blog/agileopen/cinco.jpg
-[7]: /blog/agileopen/seis.jpg
-[8]: /blog/agileopen/siete.jpg
-[9]: /blog/agileopen/ocho.jpg
-[10]: /blog/agileopen/nueve.jpg
-[11]: /blog/agileopen/diez.jpg
-[12]: /blog/agileopen/once.jpg
-[13]: /blog/agileopen/doce.jpg
+[1]: /blog/blog/agileopen/about.jpg
+[2]: /blog/blog/agileopen/uno.jpg
+[3]: /blog/blog/agileopen/dos.jpg
+[4]: /blog/blog/agileopen/tres.jpg
+[5]: /blog/blog/agileopen/cuatro.jpg
+[6]: /blog/blog/agileopen/cinco.jpg
+[7]: /blog/blog/agileopen/seis.jpg
+[8]: /blog/blog/agileopen/siete.jpg
+[9]: /blog/blog/agileopen/ocho.jpg
+[10]: /blog/blog/agileopen/nueve.jpg
+[11]: /blog/blog/agileopen/diez.jpg
+[12]: /blog/blog/agileopen/once.jpg
+[13]: /blog/blog/agileopen/doce.jpg

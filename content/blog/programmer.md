@@ -1,11 +1,9 @@
 +++
 date = "2017-01-17T22:51:32-06:00"
 title = "Las herramientas básicas de un desarrollador de Software"
-categories= ['Developer']
-tags = ['Tools']
-thumbnail = "blog/developer/tools.jpg"
+categories= ['tools']
+tags = ['programming']
 +++
-
 
 Hace poco recordaba sobre todo lo que he aprendido el los últimos seis meses como aprendiz de programador, entre estas reflexiones pensaba sobre los elementos básicos que debía tener cualquier persona que se quisiera dedicar enserio al desarrollo profesional de software.
 
@@ -34,12 +32,6 @@ Aquí comparto un pequeño tablero donde anotaba en pequeñas tarjetas de colore
 
 ![Tablero][2]
 
-[1]: /blog/developer/tools.jpg
-[2]: /blog/post.png
-
-
-
-
-
-
+[1]: /blog/blog/developer/tools.jpg
+[2]: /blog/blog/post.png
 

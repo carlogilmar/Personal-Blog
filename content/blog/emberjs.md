@@ -4,10 +4,9 @@ description = ""
 date = "2018-02-15T09:13:50-06:00"
 categories = ['developer', 'javascript', 'ember']
 tags = ['ember']
-thumbnail = "blog/ember/ember1.png"
 +++
 
-![](/blog/ember/ember1.png)
+![](/blog/blog/ember/ember1.png)
 
 This is my first post in this year.
 
@@ -34,9 +33,9 @@ Until now, I had has a little experience using **Coffee Script** and I could tes
 
 ## Build with Ember is like this...
 #### You have a complete blank canvas for build your frontend app
-![](/blog/ember/ember2.png)
+![](/blog/blog/ember/ember2.png)
 #### ... add few routes and templates...
-![](/blog/ember/ember3.png)
+![](/blog/blog/ember/ember3.png)
 
 ## Ember Core Libraries
 This framework had many libraries for extend his features.

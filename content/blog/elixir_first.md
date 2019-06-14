@@ -2,9 +2,8 @@
 title = "Hello Elixir!"
 description = "Primer acercamiento a Elixir"
 date = "2018-03-03T09:13:50-06:00"
-categories = ['developer', 'elixir']
-tags = ['elixir']
-thumbnail = "blog/elixir/fizzbuzz.png"
+categories = ['elixir']
+tags = ['programming']
 +++
 
 Recientemente he estado conociendo el lenguaje Elixir, un lenguaje que aprovecha la máquina virtual de Erlang, una plataforma conocida por soportar sistemas en baja latencia, sistemas distribuidos y tolerantes a fallas.
@@ -48,7 +47,7 @@ defmodule Learning do
 end
 ```
 
-![](/blog/elixir/fizzbuzz.png)
+![](/blog/blog/elixir/fizzbuzz.png)
 
 La principal dificultad de esto fue el concebir la idea del tener más de una función que se llama a sí misma, y la idea de que tener casos específicos de esta función como el caso de `def makeListUntil(1), do: [1]` necesario para tener un tope en las llamadas recursivas al invocar la función. En lo personal resultó complicado e interesante el hecho de ir armando una lista de esta forma.
 

@@ -2,13 +2,13 @@
 date = "2016-10-09T12:29:51-05:00"
 description = ""
 title = "Connect Vertx with MongoDB using Groovy"
-categories= ['Developer']
-tags = ['Vertx', "Groovy"]
+categories= ['groovy']
+tags = ['programming', 'vertx']
 thumbnail = "vertx.png"
 
 +++
 
-![vertx](/vertx.png)
+![vertx](/blog/vertx.png)
 
 ##### Create a Simple Connection With Vertx, MongoDB and Groovy
 
@@ -77,11 +77,11 @@ mongoClient.save("people", person1, { id ->
 
 + Please, run the script with *vertx run script.groovy*
 
-![vertx](/vertxdb2.png)
+![vertx](/blog/vertxdb2.png)
 
 + You need to consult your Mongo Server
 
-![vertx](/vertxdb1.png)
+![vertx](/blog/vertxdb1.png)
 
 ##### That's a simple way for connect Mongo Db with VertX, thats the script complete:
 

@@ -1,6 +1,6 @@
 +++
 title = "Ember 2018 Roadmap: A call for blog post"
-tags = ["ember"]
+tags = ["javascript"]
 categories = ["ember"]
 date = "2018-05-14"
 thumbnail = "blog/learningember/ember2.jpg"
@@ -34,7 +34,7 @@ For web apps, Ember implements a great ecosystem based on many concepts and help
 
 I made this visual recording for explain the most basic flow for start to learn ember as a novice.
 
-![](/blog/learningember/ember2.jpg)
+![](/blog/blog/learningember/ember2.jpg)
 
 ### Learning Ember Concepts:
 

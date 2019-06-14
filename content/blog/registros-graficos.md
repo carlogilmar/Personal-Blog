@@ -1,18 +1,16 @@
 +++
 date = "2017-05-22T18:41:12-05:00"
 description = ""
-tags = ["registros gráficos"]
-thumbnail = "me.jpg"
 title = "De la práctica en los Registros Visuales"
-categories = ["Agile"]
-
+categories = ["visual-thinking"]
+tags = ["graphic-recordings"]
 +++
 
 Hace poco más de un año asistí a un Meetup de la comunidad de Ágiles México. Era el segundo al que asistía , en esta ocasión el tema fue sobre  __Facilitación Gráfica__ por __@fperezguajardo__.
 
 A partir de ese momento descubrí lo importante que era para mí explorar más a fondo la creatividad por medio de dibujos, formas y colores. Siempre he sido una persona que raya libros con plumones, a la que le gusta llenar los cuadernos con rayones, claro, a pesar de no ser un gran dibujante. Lo que siempre he tenido claro es que: si lo puedo dibujar, lo puedo entender.
 
-![](/blog/facilitacion/nueve.jpg)
+![](/blog/blog/facilitacion/nueve.jpg)
 
 Entonces me comencén a usar más y más los dibujos como una herramienta de uso cotidiano. Cuando inicié a desarrollar software se convirtió en una herramienta mucho más útil y práctica.
 
@@ -38,13 +36,13 @@ En este curso tuvo un ritmo muy tranquilo, donde por momentos había mucha infor
 
 Desarrollo ágil
 
-![](/blog/facilitacion/uno.jpg)
+![](/blog/blog/facilitacion/uno.jpg)
 
 > En esta lamina no pude encontrar una forma de darle estructura más uniforme a las ideas, por lo que mi impresión es que todo se ve revuelto, además de que los colores no ayudan.
 
 Equipos ágiles
 
-![](/blog/facilitacion/dos.jpg)
+![](/blog/blog/facilitacion/dos.jpg)
 
 > En esta lámina no logré disponer del espacio.
 
@@ -62,15 +60,15 @@ Al ver el poco tiempo que teníamos, y sabiendo que no podríamos hacer láminas
 
 Al final logramos hacer los 7 registros gráficos, y terminamos fundidos.
 
-![](/blog/facilitacion/tres.jpg)
+![](/blog/blog/facilitacion/tres.jpg)
 
 Los retos ahora además de decidir la forma de ir cubriendo el espacio de la lamina, fueron desde elegir un título de la charla (algunas no tenían definido uno), el poco tiempo que tuvimos, el trabajo en equipo para poder hacer todas las láminas, y el énfasis en las ideas principales.
 
 Desde entonces participamos en una reunión de Epic Queen, y en otra más de Hackers And Founders con @hmCuesta sobre Machine Learning.
 
-![](/blog/facilitacion/machine.jpg)
+![](/blog/blog/facilitacion/machine.jpg)
 
-![](/blog/facilitacion/cuatro.jpg)
+![](/blog/blog/facilitacion/cuatro.jpg)
 
 ## Registros gráficos en hackatón #comoniña
 
@@ -84,13 +82,13 @@ Creo que en este punto pasamos de hacer registros gráficos a la facilitación g
 
 Al final logramos hacer alrededor de 16 láminas.
 
-![](/blog/facilitacion/cinco.jpg)
+![](/blog/blog/facilitacion/cinco.jpg)
 
-![](/blog/facilitacion/seis.jpg)
+![](/blog/blog/facilitacion/seis.jpg)
 
-![](/blog/facilitacion/siete.jpg)
+![](/blog/blog/facilitacion/siete.jpg)
 
-![](/blog/facilitacion/ocho.jpg)
+![](/blog/blog/facilitacion/ocho.jpg)
 
 ## Satisfecho por la experiencia
 

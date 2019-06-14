@@ -2,9 +2,8 @@
 title = "Mi Primera Clase en UPIICSA: Una breve reseña"
 description = ""
 date = "2017-10-14T15:45:11-06:00"
-categories = ['Agile', 'Developer']
-tags = ['Agile', 'Tools']
-thumbnail = "/blog/clase/agil2.png"
+categories = ['Agile']
+tags = ['programming', 'community']
 +++
 
 ## Mi primera clase en UPIICSA: una breve reseña
@@ -60,8 +59,8 @@ Esta es la primera clase que tengo a cargo, si se le puede llamar así, y sin du
 
 Por otra parte también me queda aprendido que debo encontrar una forma más intuitiva, sencilla, y simple de explicar Git. Aunque no pude transmitir lo que quería me quedó con estos aprendizajes.
 
-[1]: /blog/clase/agil.png
-[2]: /blog/clase/git1.png
-[3]: /blog/clase/git2.png
-[4]: /blog/clase/git3.png
-[5]: /blog/clase/git4.png
+[1]: /blog/blog/clase/agil.png
+[2]: /blog/blog/clase/git1.png
+[3]: /blog/blog/clase/git2.png
+[4]: /blog/blog/clase/git3.png
+[5]: /blog/blog/clase/git4.png
