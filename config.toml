@@ -1,4 +1,4 @@
-baseurl = "https://carlogilmar.github.io/blog/"
+baseurl = "http://carlogilmar.xyz/blog/"
 languageCode = "en-us"
 title = "@carlogilmar"
 theme = "hugo-theme-bootstrap4-blog"
