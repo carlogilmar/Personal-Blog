@@ -43,7 +43,7 @@ A Live View:
 
 When we are opening an url in the browser for show our **Live View** there happening many things:
 
-1. A regular `HTTP Request` is sended
+1. A regular `HTTP Request` is sent
 2. The assets are rendered
 3. The **Live View** provides a signed **session data**
 4. This **session data** is stored on the client
@@ -160,7 +160,7 @@ The engine will process this as a `Phoenix.LiveView.Comprehension`
   }
 {{< /highlight >}}
 
-The `Live View Engine` is the module which generate this structs then to process a `.leex` file. This flow allow to identify which parts will be dynamic and sended to the client for update the view.
+The `Live View Engine` is the module which generate this structs then to process a `.leex` file. This flow allow to identify which parts will be dynamic and sent to the client for update the view.
 
 If we see how the Engine works, we have to execute the compiler from the iEX for
 `Phoenix.LiveView.Engine.compile "path/to/your/file.leex", 0`, we can test simple templates:
@@ -186,7 +186,7 @@ And then we'll see a tuple with Elixir syntax tree which represents the template
 
 ## Client Live View
 
-This project contains some code writted in Javascript, although you only have to connect the socket for implement a Live View, there are three goals:
+This project contains some code wrote in Javascript, although you only have to connect the socket for implement a Live View, there are three goals:
 
 1. Store the session signed, and manage the socket connection
 2. Render and update the view
@@ -204,6 +204,7 @@ If you see how the Live View are working, you have to open the HTML Elements tab
 
 <iframe src="https://share.getcloudapp.com/mXuEQRYx?branding=true&amp;embed=true&amp;title=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
+For make this possible Live Views are using a project MorphDOM, a JS library for update the DOM without a Virtual DOM.
 
 
 ## Elixir Meetup CDMX
